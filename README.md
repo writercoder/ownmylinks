@@ -1,6 +1,12 @@
+# Own my links
+
+Own my links will be a bookmark storing, link sharing and url shortening application.
+
+End users will install it into their personal AWS account.
+
 # Welcome to your CDK TypeScript project!
 
-This is a blank project for TypeScript development with CDK.
+This project uses TypeScript development with CDK.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
